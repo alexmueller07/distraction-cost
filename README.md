@@ -59,7 +59,7 @@ Distraction Cost doesn’t just limit screen time—it helps you **understand th
 
 ## 📥 Installation
 
-1. [https://chromewebstore.google.com/detail/distraction-cost/blmdjidhlhnpgglaniobcaabahnmcpol]
+1. [https://chromewebstore.google.com/detail/distraction-cost/blmdjidhlhnpgglaniobcaabahnmcpol](https://google.com)
 2. Add it to Chrome  
 3. Set your hourly wage  
 4. Start reclaiming your time  
