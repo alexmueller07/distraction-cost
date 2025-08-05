@@ -1,43 +1,83 @@
-# distraction-cost
+# 🕒 Distraction Cost
 
-Track time spent on distracting websites and calculate the financial cost of your distractions.
+**Track time wasted on distracting websites and see its real financial impact.**
 
-Distraction Cost – Track Time Wasted and See What It’s Costing You
+---
 
-What if every distracted minute had a price tag?
-Distraction Cost is a productivity-focused Chrome extension that tracks how much time you spend on common distraction websites—like YouTube, Reddit, X, Instagram, and Facebook—and shows you the real-world money you could be earning instead. If you have other website you often find yourself distracted on your can add them to the distraction list as well.
+## 💡 What is Distraction Cost?
 
-Whether you're a freelancer, student, or remote worker, this extension helps you stay mindful of your time and make smarter decisions.
+Have you ever wondered how much money your distractions are costing you?  
+**Distraction Cost** is a productivity-focused Chrome extension that monitors the time you spend on distracting websites—like YouTube, Reddit, X, Instagram, and Facebook—and converts that wasted time into real-world financial cost.  
 
-Key Features:
-Real-Time Cost Tracking:
-Input your hourly wage (default is $16/hr), and the extension calculates how much money you’ve lost by spending time on distracting sites.
+Whether you're a freelancer, student, or remote worker, this extension helps you **stay mindful of your time** and make smarter choices.
 
-Smart Notifications:
-Get an immediate reminder when you open a distraction site:
-“Are you sure you want to do this?”
-Plus, get hourly updates like:
-“You’ve spent 2 hours on Reddit and lost $32.”
+---
 
-Built-in Distraction List (Customizable):
-Comes preloaded with common time-wasting sites. Add or remove your own.
+## ✨ Features
 
-Analytics Dashboard:
-View interactive charts and breakdowns of time and money lost:
-Today, This Week, This Month, This Year
-Daily trends: Which days cost you the most
-Total accumulated distraction cost
+### ⏱️ Real-Time Cost Tracking  
+- Set your hourly wage (default: **$16/hour**)  
+- Watch as the extension automatically calculates **how much money you’ve lost** while browsing distractions  
 
-Cross-Device Sync:
-Keep your distraction data synced across all your Chrome browsers—no server or account needed, using Chrome’s built-in sync.
+### 🔔 Smart Notifications  
+- Instant reminders when you visit a distraction site:  
+  > “Are you sure you want to do this?”  
+- Hourly updates to keep you aware:  
+  > “You’ve spent 2 hours on Reddit and lost $32.”  
 
-Privacy-First Design:
-All data is stored locally or via Chrome sync. No servers, no tracking, no data selling—ever.
+### 📝 Customizable Distraction List  
+- Preloaded with common time-wasting sites  
+- Add or remove sites based on your personal habits  
 
-Why Install Distraction Cost?
-If you’ve ever said “I’ll just watch one video” or “Just 5 more minutes scrolling,” this extension is for you. It’s not just about limiting screen time—it’s about reclaiming the value of your time. Distraction Cost makes the hidden cost of procrastination visible, so you can make better choices and stay focused on what really matters.
+### 📊 Analytics Dashboard  
+- Visualize your distraction cost over time  
+- View reports for **Today, This Week, This Month, This Year**  
+- Identify your **most expensive procrastination days**  
+- Track **total accumulated cost**  
 
-Install now and take back control of your time.
-<img width="1397" height="873" alt="Screenshot 2025-07-22 112530" src="https://github.com/user-attachments/assets/911fc96a-6e02-4263-81f0-98c3b17e5248" />
-<img width="1254" height="1064" alt="Screenshot 2025-07-22 112614" src="https://github.com/user-attachments/assets/f9eab42f-3501-4017-89dc-7c266bae8cd0" />
-<img width="1829" height="627" alt="Screenshot 2025-07-22 112550" src="https://github.com/user-attachments/assets/f16f8c61-cc09-4eed-a4f6-4f2148a27baf" />
+### 🔄 Cross-Device Sync  
+- Seamlessly syncs across all your Chrome browsers  
+- No accounts or external servers needed—**Chrome’s built-in sync** does the work  
+
+### 🔒 Privacy-First Design  
+- Your data stays **local to your browser** or securely synced via Chrome  
+- **No external servers**, **no tracking**, **no data selling—ever**  
+
+---
+
+## 🚀 Why Use Distraction Cost?
+
+If you’ve ever caught yourself saying:  
+- “Just one more video…”  
+- “Only 5 more minutes scrolling…”  
+
+…this tool is for you.  
+
+Distraction Cost doesn’t just limit screen time—it helps you **understand the hidden price of procrastination**, empowering you to make better time-management decisions.
+
+---
+
+## 📥 Installation
+
+1. [Download Distraction Cost from the Chrome Web Store](#) *(link coming soon)*  
+2. Add it to Chrome  
+3. Set your hourly wage  
+4. Start reclaiming your time  
+
+---
+
+## 📸 Screenshots
+
+<img width="1397" height="873" alt="Screenshot 2025-07-22 112530" src="https://github.com/user-attachments/assets/911fc96a-6e02-4263-81f0-98c3b17e5248" />  
+<img width="1254" height="1064" alt="Screenshot 2025-07-22 112614" src="https://github.com/user-attachments/assets/f9eab42f-3501-4017-89dc-7c266bae8cd0" />  
+<img width="1829" height="627" alt="Screenshot 2025-07-22 112550" src="https://github.com/user-attachments/assets/f16f8c61-cc09-4eed-a4f6-4f2148a27baf" />  
+
+---
+
+## Author
+
+Alexander Mueller
+
+- GitHub: [alexmueller07](https://github.com/alexmueller07)
+- LinkedIn: [Alexander Mueller](https://www.linkedin.com/in/alexander-mueller-021658307/)
+- Email: amueller.code@gmail.com
